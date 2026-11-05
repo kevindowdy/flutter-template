@@ -7,10 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-09-02
+
 ### Added
 
-- Initial project template: source layout, test scaffolding, CI/CD
-  workflows, and contributor documentation.
+- Flutter create assets
+
+### Changed
+
+- CLAUDE.md customized for Flutter cross-platform applications
 
 ## [0.1.0] - 2026-09-02
 
